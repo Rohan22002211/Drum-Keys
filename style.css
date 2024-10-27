@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-color: purple;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-bottom: 150px;
+}
+
+.drum{
+    margin: 10px 3% 10px 3%;
+    height: 100px;
+    width: 100px;
+    border-width: 10px;
+}
+
+h4{
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.w{
+    background-image: url( "images/photo1.jfif" );
+    background-size: cover;
+    color: deepskyblue;
+    font-size: xxx-large;
+}
+.a{
+    background-image: url( "images/photo2.jpg" );
+    background-size: cover;
+    color: limegreen;
+    font-size: xxx-large;
+}
+.s{
+    background-size: cover;
+    background-image: url( "images/photo3.webp" );
+    color: blue;
+    font-size: xxx-large;
+}
+.d{
+    background-size: cover;
+    background-image: url( "images/photo4.jfif" );
+    color: deepskyblue;
+    font-size: xxx-large;
+}
+.j{
+    background-size: cover;
+    background-image: url( "images/photo5.jpg" );
+    color: greenyellow;
+    font-size: xxx-large;
+}
+.k{
+    background-size: cover;
+    background-image: url( "images/photo6.png" );
+    color: deepskyblue;
+    font-size: xxx-large;
+}
+.l{
+    background-size: cover;
+    background-image: url( "images/photo7.png" );
+    color: deepskyblue;
+    font-size: xxx-large;
+}
